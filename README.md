@@ -93,10 +93,14 @@ The Logistic Regression model achieved approximately **89%+ accuracy** on the te
 ## 🗂️ Project Structure
 
 ```text
-EmotionDetection/
+EmotionPredictorApp/
 │
+├── screenshots/
+│   ├── home.png
+│   ├── prediction.png
+│   └── probability.png
 ├── app.py
-├── train_model.py
+├── emotion_detection_system.ipynb
 ├── emotion_model.pkl
 ├── tfidf_vectorizer.pkl
 ├── emotion_labels.pkl
@@ -127,8 +131,8 @@ EmotionDetection/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/emotion-detection-system.git
-cd emotion-detection-system
+git clone https://github.com/yourusername/EmotionDetectorApp.git
+cd EmotionDetectorApp
 ```
 
 ### Create Virtual Environment
