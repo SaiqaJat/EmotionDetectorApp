@@ -226,11 +226,7 @@ I'm nervous and worried about tomorrow's interview.
 
 ## 📷 Application Preview
 
-
-```text
-screenshots/home.png
-screenshots/result.png
-```
+![Home Page](modelPreview/home.png)
 
 ---
 
@@ -240,7 +236,7 @@ screenshots/result.png
 
 Software Engineering Student | Data Science & AI Enthusiast
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/SaiqaJat
 
 ---
 
