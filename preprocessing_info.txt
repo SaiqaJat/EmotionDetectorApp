@@ -1,0 +1,13 @@
+PREPROCESSING STEPS:
+1. Convert to lowercase
+2. Remove punctuation
+3. Remove numbers
+4. Remove extra whitespace
+5. TfidfVectorizer handles stopwords removal
+
+VECTORIZER PARAMETERS:
+max_features: 5000
+ngram_range: (1, 2)
+stop_words: english
+min_df: 2
+max_df: 0.95
